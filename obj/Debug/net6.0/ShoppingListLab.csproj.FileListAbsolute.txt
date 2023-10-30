@@ -1,0 +1,14 @@
+C:\Users\peggy\source\repos\ShoppingListLab\obj\Debug\net6.0\ShoppingListLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peggy\source\repos\ShoppingListLab\obj\Debug\net6.0\ShoppingListLab.AssemblyInfoInputs.cache
+C:\Users\peggy\source\repos\ShoppingListLab\obj\Debug\net6.0\ShoppingListLab.AssemblyInfo.cs
+C:\Users\peggy\source\repos\ShoppingListLab\obj\Debug\net6.0\ShoppingListLab.csproj.CoreCompileInputs.cache
+C:\Users\peggy\source\repos\ShoppingListLab\bin\Debug\net6.0\ShoppingListLab.exe
+C:\Users\peggy\source\repos\ShoppingListLab\bin\Debug\net6.0\ShoppingListLab.deps.json
+C:\Users\peggy\source\repos\ShoppingListLab\bin\Debug\net6.0\ShoppingListLab.runtimeconfig.json
+C:\Users\peggy\source\repos\ShoppingListLab\bin\Debug\net6.0\ShoppingListLab.dll
+C:\Users\peggy\source\repos\ShoppingListLab\bin\Debug\net6.0\ShoppingListLab.pdb
+C:\Users\peggy\source\repos\ShoppingListLab\obj\Debug\net6.0\ShoppingListLab.dll
+C:\Users\peggy\source\repos\ShoppingListLab\obj\Debug\net6.0\refint\ShoppingListLab.dll
+C:\Users\peggy\source\repos\ShoppingListLab\obj\Debug\net6.0\ShoppingListLab.pdb
+C:\Users\peggy\source\repos\ShoppingListLab\obj\Debug\net6.0\ShoppingListLab.genruntimeconfig.cache
+C:\Users\peggy\source\repos\ShoppingListLab\obj\Debug\net6.0\ref\ShoppingListLab.dll
